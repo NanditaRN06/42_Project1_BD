@@ -7,7 +7,7 @@ A minimal, multi-threaded distributed file system implementation in Python using
 ## Folder structure
 
 ```
-42_Project2_BD/
+42_Project1_BD/
 ├── cli.py
 ├── namenode.py
 ├── namenode_api.py
